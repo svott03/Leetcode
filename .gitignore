@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# My Files
+.vscode
+testCases.txt
