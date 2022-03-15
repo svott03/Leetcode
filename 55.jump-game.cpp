@@ -17,5 +17,4 @@ public:
         return currVal == 0;
     }
 };
-
 // @lc code=end
